@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfff0d5a-cd4b-4cf2-8e77-334af3e9a1bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends" beforeDir="false" afterPath="$PROJECT_DIR$/friends" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/friends.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,15 +25,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="382">
+              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/friends/src/App.scss">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -49,17 +50,33 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1323" />
-    <option name="y" value="23" />
+    <option name="x" value="297" />
+    <option name="y" value="26" />
     <option name="width" value="1315" />
     <option name="height" value="1348" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="HTTP-AJAX" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="HTTP-AJAX" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="friends" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,12 +88,6 @@
               <item name="HTTP-AJAX" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTTP-AJAX" type="462c0819:PsiDirectoryNode" />
               <item name="friends" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTTP-AJAX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTTP-AJAX" type="462c0819:PsiDirectoryNode" />
-              <item name="friends" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,6 +106,9 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -123,16 +137,15 @@
       <updated>1554314465746</updated>
       <workItem from="1554314466985" duration="5177000" />
       <workItem from="1554333103951" duration="1846000" />
-      <workItem from="1554404026270" duration="7397000" />
+      <workItem from="1554404026270" duration="7725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14420000" />
+    <option name="totallyTimeSpent" value="14748000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1323" y="23" width="1315" height="1348" extended-state="0" />
-    <editor active="true" />
+    <frame x="297" y="26" width="1315" height="1348" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2509897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -168,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        <state relative-caret-position="382">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
         </state>
       </provider>
     </entry>
