@@ -56,13 +56,17 @@ app.get('/friends', (req, res) => {
 });
 
 app.post('/friends', (req, res) => {
+
   const friend = { id: getNewId(), ...req.body };
   friends = [...friends, friend];
+  console.log('friends', friends)
+  console.log('friend', friend)
   res.status(201).json(friends);
 });
 
 app.put('/friends/:id', (req, res) => {
   const { id } = req.params;
+  console.log(req.params)
   let friendIndex = friends.findIndex(friend => friend.id == id);
 
   if (friendIndex >= 0) {
